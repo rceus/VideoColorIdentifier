@@ -1,2 +1,2 @@
-VideoColorIdentifier
+Video Color Identifier
 ====================
